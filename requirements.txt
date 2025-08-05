@@ -1,11 +1,9 @@
 fastapi
 uvicorn
-pydantic
 requests
 python-dotenv
-faiss-cpu
-sentence-transformers
 PyMuPDF
 python-docx
-numpy
+faiss-cpu
+sentence-transformers
 
